@@ -1,0 +1,6 @@
+html {
+ background: url(image/bg.jpg) no-repet center center fixed;
+ background-size: cover;
+ height: 100%;
+ overflow: hidden;
+}
