@@ -1,5 +1,5 @@
 html { 
-  background: url("https://github.com/jean-creat/jean-creat.project-necklace/blob/main/IMG_3726.JPG") no-repeat center center fixed; 
+  background: url(Image/IMG_3726.JPG) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
