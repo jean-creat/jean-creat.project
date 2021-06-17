@@ -17,6 +17,7 @@ html {
 }
 
 h1 {
-  fontfamily: Times, serif;
+  font-size: 30px;
+  fontfamily: italic;
 }
   
