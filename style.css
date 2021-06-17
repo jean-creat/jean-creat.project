@@ -16,3 +16,7 @@ html {
   min-height: 100%;
 }
 
+#h1 {
+  fontfamily: "Times New Roman", Times, serif;
+}
+  
