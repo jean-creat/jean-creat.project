@@ -1,0 +1,45 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0;
+	overflow-y: scroll;
+}
+
+#container {
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+img#bg {	
+	position: relative;
+	width: 1408px;
+	height: 1056px;
+	z-index: -1000;
+}
+
+#info {	
+	position: absolute;
+	width: 35px;
+	height: 64px;
+	left: 1286px;
+	top: 86px;
+}
+
+
+#goback {
+	position: absolute;
+	width: 91px;
+	height: 40px;
+	left: 674px;
+	top: 975px;
+}
+
+a.button {
+    -webkit-appearance: button;
+    -moz-appearance: button;
+    appearance: button;
+
+    text-decoration: none;
+}
